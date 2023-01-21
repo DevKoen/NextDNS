@@ -1,0 +1,733 @@
+{
+  "allowlist": [
+    {
+      "id": "graph.facebook.com",
+      "active": true
+    },
+    {
+      "id": "graph.instagram.com",
+      "active": true
+    },
+    {
+      "id": "i.instagram.com",
+      "active": true
+    },
+    {
+      "id": "gfe.nvidia.com",
+      "active": true
+    },
+    {
+      "id": "nvgs.nvidia.cn",
+      "active": true
+    },
+    {
+      "id": "logsink.devices.nest.com",
+      "active": true
+    },
+    {
+      "id": "smoot.apple.com",
+      "active": true
+    },
+    {
+      "id": "lisa-is.nl",
+      "active": true
+    },
+    {
+      "id": "api.nos.nl",
+      "active": true
+    },
+    {
+      "id": "api.nextdns.io",
+      "active": true
+    },
+    {
+      "id": "nextdns.io",
+      "active": true
+    },
+    {
+      "id": "my.nextdns.io",
+      "active": true
+    },
+    {
+      "id": "amp-api-search-edge.apps.apple.com",
+      "active": true
+    },
+    {
+      "id": "api.wordfeud.com",
+      "active": true
+    },
+    {
+      "id": "talpatvcdn.nl",
+      "active": true
+    },
+    {
+      "id": "cldnr.talpa.network",
+      "active": true
+    },
+    {
+      "id": "api.prd.video.talpa.network",
+      "active": true
+    },
+    {
+      "id": "api2.scoupy.nl",
+      "active": true
+    },
+    {
+      "id": "game.brawlstarsgame.com",
+      "active": true
+    },
+    {
+      "id": "tracking.hockeydirect.nl",
+      "active": true
+    },
+    {
+      "id": "mobile-api.coolblue-production.eu",
+      "active": true
+    },
+    {
+      "id": "datadog-gateway.eu-west-1.coolblue-production.eu",
+      "active": true
+    },
+    {
+      "id": "sf-api-token-service.itunes.apple.com",
+      "active": true
+    },
+    {
+      "id": "api-edge.apps.apple.com",
+      "active": true
+    },
+    {
+      "id": "api.apps.apple.com",
+      "active": true
+    },
+    {
+      "id": "api.me2-prd.gmal.app",
+      "active": true
+    },
+    {
+      "id": "api.me1-prd.gmal.app",
+      "active": true
+    },
+    {
+      "id": "dif.gmal.app",
+      "active": true
+    },
+    {
+      "id": "api.bosch-wdw.com",
+      "active": true
+    },
+    {
+      "id": "flitsmeister.app",
+      "active": true
+    },
+    {
+      "id": "cdn.flitsmeister.app",
+      "active": true
+    },
+    {
+      "id": "account.flitsmeister.app",
+      "active": true
+    },
+    {
+      "id": "alerts.flitsmeister.app",
+      "active": true
+    },
+    {
+      "id": "data-ios.flitsmeister.app",
+      "active": true
+    },
+    {
+      "id": "4411.flitsmeister.app",
+      "active": true
+    },
+    {
+      "id": "appservice.flitsmeister.app",
+      "active": true
+    },
+    {
+      "id": "charting.vwdservices.com",
+      "active": true
+    },
+    {
+      "id": "solutions.vwdservices.com",
+      "active": true
+    },
+    {
+      "id": "api.fdmg.org",
+      "active": true
+    },
+    {
+      "id": "stocks.prod.getbux.com",
+      "active": true
+    },
+    {
+      "id": "xp.apple.com",
+      "active": true
+    },
+    {
+      "id": "api.leanplum.com",
+      "active": true
+    },
+    {
+      "id": "api.rudderlabs.com",
+      "active": true
+    },
+    {
+      "id": "api-partner.spotify.com",
+      "active": true
+    },
+    {
+      "id": "mp.images.icas.io",
+      "active": true
+    },
+    {
+      "id": "cdn.ebayclassifieds.net",
+      "active": true
+    },
+    {
+      "id": "accountbar.toegang.nu",
+      "active": true
+    },
+    {
+      "id": "noordhoff.nl",
+      "active": true
+    },
+    {
+      "id": "kennisnet.nl",
+      "active": true
+    },
+    {
+      "id": "thiememeulenhoff.nl",
+      "active": true
+    },
+    {
+      "id": "aselect.entree.kennisnet.nl",
+      "active": true
+    },
+    {
+      "id": "engine.entree.kennisnet.nl",
+      "active": true
+    },
+    {
+      "id": "toegang.thiememeulenhoff.nl",
+      "active": true
+    },
+    {
+      "id": "nuovo.helloid.com",
+      "active": true
+    },
+    {
+      "id": "www.lessonup.com",
+      "active": true
+    },
+    {
+      "id": "knhbsso.lisa-is.nl",
+      "active": true
+    },
+    {
+      "id": "team.lisa-is.nl",
+      "active": true
+    },
+    {
+      "id": "hockey.nl",
+      "active": true
+    },
+    {
+      "id": "graph.talparad.io",
+      "active": true
+    },
+    {
+      "id": "content.talparad.io",
+      "active": true
+    },
+    {
+      "id": "www.lttstore.com",
+      "active": true
+    },
+    {
+      "id": "www.vanderlinde.ml",
+      "active": true
+    },
+    {
+      "id": "amp-api-edge.apps.apple.com",
+      "active": true
+    },
+    {
+      "id": "getbux.com",
+      "active": true
+    },
+    {
+      "id": "cdn.nos.nl",
+      "active": true
+    },
+    {
+      "id": "beurs.fd.nl",
+      "active": true
+    }
+  ],
+  "security": {
+    "threatIntelligenceFeeds": true,
+    "aiThreatDetection": true,
+    "googleSafeBrowsing": true,
+    "cryptojacking": true,
+    "dnsRebinding": true,
+    "idnHomographs": true,
+    "typosquatting": true,
+    "dga": true,
+    "nrd": true,
+    "ddns": true,
+    "parking": true,
+    "csam": true,
+    "tlds": [
+      {
+        "id": "bid"
+      },
+      {
+        "id": "cfd"
+      },
+      {
+        "id": "discount"
+      },
+      {
+        "id": "gdn"
+      },
+      {
+        "id": "loan"
+      },
+      {
+        "id": "loans"
+      },
+      {
+        "id": "ooo"
+      },
+      {
+        "id": "sbs"
+      },
+      {
+        "id": "fit"
+      },
+      {
+        "id": "monster"
+      },
+      {
+        "id": "cn"
+      },
+      {
+        "id": "surf"
+      },
+      {
+        "id": "work"
+      },
+      {
+        "id": "review"
+      },
+      {
+        "id": "asia"
+      },
+      {
+        "id": "tokyo"
+      },
+      {
+        "id": "info"
+      },
+      {
+        "id": "xn--nqv7f"
+      },
+      {
+        "id": "agency"
+      },
+      {
+        "id": "buzz"
+      },
+      {
+        "id": "cf"
+      },
+      {
+        "id": "ga"
+      },
+      {
+        "id": "gq"
+      },
+      {
+        "id": "ml"
+      },
+      {
+        "id": "pw"
+      },
+      {
+        "id": "ru"
+      },
+      {
+        "id": "tk"
+      },
+      {
+        "id": "top"
+      },
+      {
+        "id": "zone"
+      }
+    ]
+  },
+  "denylist": [
+    {
+      "id": "spappmonitoring.com",
+      "active": true
+    },
+    {
+      "id": "a-spy.com",
+      "active": true
+    },
+    {
+      "id": "alltracker.org",
+      "active": true
+    },
+    {
+      "id": "aispyer.com",
+      "active": true
+    },
+    {
+      "id": "events.gfe.nvidia.com",
+      "active": true
+    },
+    {
+      "id": "syndication.twitter.com",
+      "active": true
+    },
+    {
+      "id": "acfeedbackws.icloud.com",
+      "active": true
+    },
+    {
+      "id": "api-adservices.apple.com",
+      "active": true
+    },
+    {
+      "id": "feedbackws.fe.apple-dns.net",
+      "active": true
+    },
+    {
+      "id": "feedbackws.icloud.com",
+      "active": true
+    },
+    {
+      "id": "iadsdk.apple.com",
+      "active": true
+    },
+    {
+      "id": "notes-analytics-events.apple.com",
+      "active": true
+    },
+    {
+      "id": "notes-analytics-events.news.apple-dns.net",
+      "active": true
+    },
+    {
+      "id": "stocks-analytics-events.news.apple-dns.net",
+      "active": true
+    },
+    {
+      "id": "weather-analytics-events.apple.com",
+      "active": true
+    },
+    {
+      "id": "weather-analytics-events.news.apple-dns.net",
+      "active": true
+    }
+  ],
+  "rewrites": [],
+  "parentalcontrol": {
+    "safeSearch": true,
+    "youtubeRestrictedMode": false,
+    "blockBypass": false,
+    "services": [],
+    "categories": [
+      {
+        "id": "gambling",
+        "recreation": false,
+        "active": true
+      },
+      {
+        "id": "dating",
+        "recreation": false,
+        "active": true
+      },
+      {
+        "id": "piracy",
+        "recreation": false,
+        "active": true
+      }
+    ],
+    "recreation": {
+      "times": {},
+      "timezone": null
+    }
+  },
+  "settings": {
+    "logs": {
+      "enabled": true,
+      "drop": {
+        "ip": false,
+        "domain": false
+      },
+      "retention": 63072000,
+      "location": "ch"
+    },
+    "blockPage": {
+      "enabled": false
+    },
+    "performance": {
+      "ecs": true,
+      "cacheBoost": true,
+      "cnameFlattening": true
+    },
+    "web3": false
+  },
+  "privacy": {
+    "disguisedTrackers": true,
+    "allowAffiliate": true,
+    "blocklists": [
+      {
+        "id": "nextdns-recommended"
+      },
+      {
+        "id": "adguard-dns-filter"
+      },
+      {
+        "id": "easylist"
+      },
+      {
+        "id": "steven-black"
+      },
+      {
+        "id": "adguard-mobile-ads-filter"
+      },
+      {
+        "id": "oisd"
+      },
+      {
+        "id": "notracking"
+      },
+      {
+        "id": "easyprivacy"
+      },
+      {
+        "id": "adguard-tracking-protection-filter"
+      },
+      {
+        "id": "adguard-base-filter"
+      },
+      {
+        "id": "peter-lowe"
+      },
+      {
+        "id": "1hosts-lite"
+      },
+      {
+        "id": "easylist-dutch"
+      },
+      {
+        "id": "adguard-social-media-filter"
+      },
+      {
+        "id": "anudeep-blacklist"
+      },
+      {
+        "id": "lightswitch05-ads-tracking"
+      },
+      {
+        "id": "hagezi-multi-light"
+      },
+      {
+        "id": "hagezi-multi-pro"
+      },
+      {
+        "id": "hagezi-multi-normal"
+      },
+      {
+        "id": "adguard-russian-filter"
+      },
+      {
+        "id": "notrack-tracker-blocklist"
+      },
+      {
+        "id": "chef-koch-spotify"
+      },
+      {
+        "id": "perflyst-smarttv"
+      },
+      {
+        "id": "antipopads"
+      },
+      {
+        "id": "barbblock"
+      },
+      {
+        "id": "fanboy-enhanced-tracking"
+      },
+      {
+        "id": "fanboy-annoyance"
+      },
+      {
+        "id": "goodbye-ads"
+      },
+      {
+        "id": "mvps-hosts"
+      },
+      {
+        "id": "someonewhocares"
+      },
+      {
+        "id": "shallas-blacklists-tracker"
+      },
+      {
+        "id": "uncheckyads"
+      },
+      {
+        "id": "windowsspyblocker-spy"
+      },
+      {
+        "id": "nsa-blocklist"
+      },
+      {
+        "id": "lightswitch05-tracking-aggressive"
+      },
+      {
+        "id": "1hosts-pro"
+      },
+      {
+        "id": "1hosts-xtra"
+      },
+      {
+        "id": "280blocker"
+      },
+      {
+        "id": "adaway"
+      },
+      {
+        "id": "add-2o7net"
+      },
+      {
+        "id": "cameleon"
+      },
+      {
+        "id": "disconnect-ads"
+      },
+      {
+        "id": "disconnect-malvertising"
+      },
+      {
+        "id": "disconnect-tracking"
+      },
+      {
+        "id": "hagezi-multi-pro-plus"
+      },
+      {
+        "id": "hagezi-multi-ultimate"
+      },
+      {
+        "id": "wally3k-personal"
+      },
+      {
+        "id": "shallas-blacklists-adv"
+      },
+      {
+        "id": "ad-wars"
+      },
+      {
+        "id": "anti-ad"
+      },
+      {
+        "id": "yhosts"
+      },
+      {
+        "id": "abpindo"
+      },
+      {
+        "id": "abpvn-list"
+      },
+      {
+        "id": "logroid-adaway-japan"
+      },
+      {
+        "id": "bkrucarci-turk-adlist"
+      },
+      {
+        "id": "bulgarian-list"
+      },
+      {
+        "id": "certyficateit"
+      },
+      {
+        "id": "easylist-china"
+      },
+      {
+        "id": "easylist-czech-slovak"
+      },
+      {
+        "id": "easylist-germany"
+      },
+      {
+        "id": "easylist-hebrew"
+      },
+      {
+        "id": "easylist-italy"
+      },
+      {
+        "id": "easylist-lithuania"
+      },
+      {
+        "id": "finnish-easylist-addition"
+      },
+      {
+        "id": "frellwit-swedish"
+      },
+      {
+        "id": "hostsvn"
+      },
+      {
+        "id": "hufilter"
+      },
+      {
+        "id": "latvian-list"
+      },
+      {
+        "id": "liste-ar"
+      },
+      {
+        "id": "liste-fr"
+      },
+      {
+        "id": "ru-adlist"
+      },
+      {
+        "id": "youslist"
+      }
+    ],
+    "natives": [
+      {
+        "id": "xiaomi"
+      },
+      {
+        "id": "huawei"
+      },
+      {
+        "id": "samsung"
+      },
+      {
+        "id": "alexa"
+      },
+      {
+        "id": "windows"
+      },
+      {
+        "id": "apple"
+      },
+      {
+        "id": "roku"
+      },
+      {
+        "id": "sonos"
+      }
+    ]
+  }
+}
