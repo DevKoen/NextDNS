@@ -32,6 +32,17 @@ Now you can use an easy NextDNS setup that has little to no errors
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Extensions for NextDNS:
+
+
+1. <a href="https://github.com/hjk789/NXEnhanced" target="_blank">NX Enhanced</a>:  Chrome, Firefox and Microsoft. 
+
+2. <a href="https://nexthub.vishalvshekkar.com/" target="_blank">NextHub</a>: iOS, MacOS iPadOS
+
+3. <a href="https://github.com/mtverlee/NextDNSManager" target="_blank">NextDNS Manager</a>: Android (use at own risk)
+
+------------------------------------------------------------------------------
+
 By Koen van der Linde
 
 Email: koen@vanderlinde.ml
